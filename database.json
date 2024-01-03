@@ -1,0 +1,93 @@
+{
+    "posts": [
+        {
+            "id": 1,
+            "title": "React Requires Patience",
+            "body": "React has a steep learning curve, but it becomes much easier once you get the new syntax down.",
+            "date": "09/18/2023",
+            "likes": 10,
+            "userId": 2,
+            "topicId": 3
+        },
+        {
+            "id": 2,
+            "title": "Function Names Matter",
+            "body": "Naming your functions well will make your code much easier to understand in the future.",
+            "date": "11/12/2023",
+            "likes": 17,
+            "userId": 3,
+            "topicId": 1
+        },
+        {
+            "id": 3,
+            "title": "Professional Network",
+            "body": "Continue growing your network even after you land your first job so you will have a chance to hear about new future opportunities.",
+            "date": "12/31/2023",
+            "likes": 6,
+            "userId": 1,
+            "topicId": 2
+        },
+        {
+            "id": 4,
+            "title": "LinkedIn Activity",
+            "body": "Make a checklist of quantifiable LinkedIn activities to complete (e.g. liking 3 network's accomplishments and posts, adding a comment to 2 discussions of people in your network, etc.) on a pre-determined basis (e.g. once per week, once per day, etc.).",
+            "date": "01/01/2024",
+            "likes": 21,
+            "userId": 2,
+            "topicId": 2
+        },
+        {
+            "id": 5,
+            "title": "React Syntax",
+            "body": "React concepts are very similar to Vanilla JavaScript. The syntax is the main difference.",
+            "date": "10/20/2023",
+            "likes": 12,
+            "userId": 3,
+            "topicId": 3
+        },
+        {
+            "id": 6,
+            "title": "Seek Additional Resources",
+            "body": "Many React concepts are explained well by programmers on YouTube. Sometimes hearing a second perspective on the learning materials can help solidify the concepts.",
+            "date": "09/15/2023",
+            "likes": 10,
+            "userId": 2,
+            "topicId": 3
+        }
+    ],
+    "users": [
+        {
+            "id": 1,
+            "name": "Lucas O'Malley",
+            "email": "lucas@email.com",
+            "cohort": 67
+        },
+        {
+            "id": 2,
+            "name": "Sandra Davis",
+            "email": "sandra@email.com",
+            "cohort": 65
+        },
+        {
+            "id": 3,
+            "name": "Olivia Miller",
+            "email": "olivia@email.com",
+            "cohort": 62
+        }
+    ],
+    "topics": [
+        {
+            "id": 1,
+            "name": "Functions"
+        },
+        {
+            "id": 2,
+            "name": "Job Search"
+        },
+        {
+            "id": 3,
+            "name": "React"
+        }
+    ],
+    "userPosts": []
+}

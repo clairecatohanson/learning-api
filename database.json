@@ -5,7 +5,7 @@
       "title": "React Requires Patience",
       "body": "React has a steep learning curve, but it becomes much easier once you get the new syntax down.",
       "date": "09/18/2023",
-      "likes": 9,
+      "likes": 10,
       "userId": 2,
       "topicId": 3
     },
@@ -20,9 +20,9 @@
     },
     {
       "id": 3,
-      "title": "Professional Network",
+      "title": "Professional Networks",
       "body": "Continue growing your network even after you land your first job so you will have a chance to hear about new future opportunities.",
-      "date": "12/31/2023",
+      "date": "2024-01-12T23:43:26.028Z",
       "likes": 5,
       "userId": 1,
       "topicId": 2
@@ -64,13 +64,13 @@
       "id": 8
     },
     {
+      "id": 9,
       "title": "LinkedIn Profile",
-      "body": "Tailor your LinkedIn profile \"persona\" to align perfectly with the job you want to land.",
+      "body": "Tailor your LinkedIn profile 'persona' to align perfectly with the job you want to land.",
       "date": "2024-01-10T22:34:25.413Z",
-      "likes": 0,
+      "likes": 1,
       "userId": 2,
-      "topicId": 2,
-      "id": 9
+      "topicId": 2
     }
   ],
   "users": [
@@ -93,10 +93,10 @@
       "cohort": 62
     },
     {
+      "id": 4,
+      "fullName": "Emily Johnston",
       "email": "emily@email.com",
-      "fullName": "Emily Johnson",
-      "cohort": 58,
-      "id": 4
+      "cohort": 57
     },
     {
       "email": "michael@email.com",
@@ -122,8 +122,18 @@
   "favorites": [
     {
       "postId": 2,
-      "userId": 2,
-      "id": 2
+      "userId": 1,
+      "id": 5
+    },
+    {
+      "postId": 9,
+      "userId": 1,
+      "id": 6
+    },
+    {
+      "postId": 1,
+      "userId": 1,
+      "id": 7
     }
   ]
 }
